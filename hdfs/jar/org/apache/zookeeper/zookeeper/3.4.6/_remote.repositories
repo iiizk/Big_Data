@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 16:55:52 CST 2022
+zookeeper-3.4.6.jar>alimaven=
+zookeeper-3.4.6-tests.jar>alimaven=
+zookeeper-3.4.6.pom>alimaven=

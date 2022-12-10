@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 16:55:52 CST 2022
+hbase-common-1.1.1.jar>alimaven=
+hbase-common-1.1.1.pom>alimaven=
+hbase-common-1.1.1-tests.jar>alimaven=

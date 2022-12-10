@@ -1,0 +1,42 @@
+Hello:file3.txt	1
+Hello:file3.txt	
+Hello	file3.txt:0
+Hello	
+MapReduce:file1.txt	1
+MapReduce:file1.txt	
+MapReduce	file1.txt:0
+MapReduce	
+MapReduce:file2.txt	1
+MapReduce:file2.txt	
+MapReduce	file2.txt:0
+MapReduce	
+MapReduce:file3.txt	1
+MapReduce:file3.txt	1
+MapReduce:file3.txt	
+MapReduce	file3.txt:0
+MapReduce	
+bye:file3.txt	1
+bye:file3.txt	
+bye	file3.txt:0
+bye	
+is:file1.txt	1
+is:file1.txt	
+is	file1.txt:0
+is	
+is:file2.txt	1
+is:file2.txt	1
+is:file2.txt	
+is	file2.txt:0
+is	
+powerful:file2.txt	1
+powerful:file2.txt	
+powerful	file2.txt:0
+powerful	
+simple:file1.txt	1
+simple:file1.txt	
+simple	file1.txt:0
+simple	
+simple:file2.txt	1
+simple:file2.txt	
+simple	file2.txt:0
+simple	
